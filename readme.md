@@ -15,11 +15,11 @@ Here I used HTML canvas tag for building the game.
 	
 # Appearance of the Game
 
-<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/1.png" alt="snake game" height="500" width="500">
+<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/1.png" alt="snake game" height="200" width="500">
 
-<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/2.png" alt="snake game" height="500" width="500">
+<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/2.png" alt="snake game" height="200" width="500">
 
-<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/3.png" alt="snake game" height="500" width="500">
+<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/3.png" alt="snake game" height="200" width="500">
 
-<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/4.png" alt="snake game" height="500" width="500">
+<img src="https://github.com/rr-y/Snake-Game/blob/master/screenshots/4.png" alt="snake game" height="200" width="500">
 
